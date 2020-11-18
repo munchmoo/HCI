@@ -1,6 +1,6 @@
 # HCI
 Web Diary <Dear Diary>
-  My Page tab
+My Page tab
   
   -search (by title, category)
   -organize (by date, title)
